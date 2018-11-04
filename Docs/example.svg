@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 0 100 20" height="100px"><g>
+	
+		<path opacity="1" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-21s" repeatCount="indefinite" values="M-50,0 C40,5 40,5 50,0z;M-50,0 C-40,5 -40,5 50,0z;M-50,0 C40,5 40,5 50,0z">
+			</animate>
+		</path>'
+	
+		<path opacity="0.5" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-18s" repeatCount="indefinite" values="M-50,0 C40,7.5 40,7.5 50,0z;M-50,0 C-40,7.5 -40,7.5 50,0z;M-50,0 C40,7.5 40,7.5 50,0z">
+			</animate>
+		</path>'
+	
+		<path opacity="0.3333333333333333" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-15s" repeatCount="indefinite" values="M-50,0 C40,10 40,10 50,0z;M-50,0 C-40,10 -40,10 50,0z;M-50,0 C40,10 40,10 50,0z">
+			</animate>
+		</path>'
+	
+		<path opacity="0.25" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-12s" repeatCount="indefinite" values="M-50,0 C40,12.5 40,12.5 50,0z;M-50,0 C-40,12.5 -40,12.5 50,0z;M-50,0 C40,12.5 40,12.5 50,0z">
+			</animate>
+		</path>'
+	
+		<path opacity="0.2" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-9s" repeatCount="indefinite" values="M-50,0 C40,15 40,15 50,0z;M-50,0 C-40,15 -40,15 50,0z;M-50,0 C40,15 40,15 50,0z">
+			</animate>
+		</path>'
+	
+		<path opacity="0.16666666666666666" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-6s" repeatCount="indefinite" values="M-50,0 C40,17.5 40,17.5 50,0z;M-50,0 C-40,17.5 -40,17.5 50,0z;M-50,0 C40,17.5 40,17.5 50,0z">
+			</animate>
+		</path>'
+	
+		<path opacity="0.14285714285714285" style="fill: #1A50E8">
+			<animate attributeName="d" dur="15s" begin="-3s" repeatCount="indefinite" values="M-50,0 C40,20 40,20 50,0z;M-50,0 C-40,20 -40,20 50,0z;M-50,0 C40,20 40,20 50,0z">
+			</animate>
+		</path>'
+	
+</g></svg>

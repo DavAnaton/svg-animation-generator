@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 0 100 20" height="100px"><g>
+	<% for(var i = 0; i < setup.number_of_waves; i++){ %>
+		<path opacity="<%=paths[i].opacity%>" style="fill: <%= setup.color %>">
+			<animate attributeName="d"
+					 dur="15s" 
+					 begin="<%=paths[i].timing%>s"
+					 repeatCount="indefinite" 
+					 values="<%=paths[i].frames%>">
+			</animate>
+		</path>'
+	<% } %>
+</g></svg>
